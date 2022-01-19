@@ -1,0 +1,11 @@
+defin(1, "calculus");
+defin(2, "linear algebra");
+defin(3, "C++");
+defin(4, "Missing Semester");
+defin(5, "stochastic process");
+defin(6, "computer organization and design");
+defin(7, "OS");
+defin(8, "computer networking");
+defin(9, "JavaScript");
+defin(10, "mathematical logic");
+defin(11, "quantum mechanics");
