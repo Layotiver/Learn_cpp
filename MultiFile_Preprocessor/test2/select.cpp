@@ -14,14 +14,14 @@ string s;
 int main()
 {
     srand(time(NULL));
-    n = rand()%11+1;
+    n = rand()%6+1;
     switch (n)
     {
 #define defin(a, b) \
     case a:         \
         s = b;      \
         break;
-#include "WitchToLearn.txt"
+#include "nowtolearn.txt"
 #undef defin
     }
     cout << s << endl;

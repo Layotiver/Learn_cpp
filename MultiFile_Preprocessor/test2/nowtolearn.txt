@@ -1,0 +1,6 @@
+defin(1, "Missing Semester");
+defin(2, "stochastic process");
+defin(3, "OS");
+defin(4, "computer networking");
+defin(5, "JavaScript");
+defin(6, "English");
